@@ -99,18 +99,3 @@ This project is a web application for managing student data using Java Server Fa
    - On the "Students List" page, click the "Delete" button next to the student you want to remove.
    - Confirm the deletion in the pop-up. Click "OK" to delete or "Cancel" to abort the operation.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For any questions or suggestions, please contact [your-email@example.com].
-
----
-
-Feel free to customize this template according to your project's specific details and requirements.
