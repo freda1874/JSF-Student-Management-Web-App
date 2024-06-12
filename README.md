@@ -8,9 +8,13 @@ This project is a web application for managing student data using Java Server Fa
 ![image](https://github.com/freda1874/JSF-Student-Management-Web-App/assets/85437054/44d57054-edf3-4e70-9919-d37ce70ed00f)
 
 1. **Create/Add a New Student**: Users can add new student records to the database.
-2. **Read/View a List of Students**: Users can view a list of all students stored in the database.
-3. **Update/Edit an Existing Student**: Users can update existing student records. After updating, the user is redirected back to the main page. Users can also cancel the update operation and return to the main page.
-4. **Delete/Remove an Existing Student**: Users can delete student records. A confirmation pop-up will appear to confirm the deletion.
+2. ![image](https://github.com/freda1874/JSF-Student-Management-Web-App/assets/85437054/be1db257-b031-4118-8faa-41852af79994)
+
+3. **Read/View a List of Students**: Users can view a list of all students stored in the database.
+4. **Update/Edit an Existing Student**: Users can update existing student records. After updating, the user is redirected back to the main page. Users can also cancel the update operation and return to the main page.
+5. ![image](https://github.com/freda1874/JSF-Student-Management-Web-App/assets/85437054/870e1bc1-13d5-49ae-ba92-9f29a53386bb)
+
+6. **Delete/Remove an Existing Student**: Users can delete student records. A confirmation pop-up will appear to confirm the deletion.
 
 ## Technologies Used
 
